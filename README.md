@@ -38,6 +38,10 @@ At the beginning of each turn, players and the enemy draw one card from their re
 Follow these steps to kickstart your card game development using this template:
 
 Clone or download the repository.
+Download Library files from the link below the readme (you also can find it in the Library file of repository)
 Open the project in your preferred game development environment.
 Customize the Card Scriptable Objects to create your unique cards.
 Expand and modify the template to suit your game's theme and mechanics.
+
+# Library File Link
+http://www.mediafire.com/file/yp4drmu8e25i39o/Library.rar
